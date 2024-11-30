@@ -20,7 +20,7 @@ I'm currently focused on learning front-end development with a strong foundation
 
 ### 📫 How to reach me:  
 - **GitHub**: [github.com/Awmir](https://github.com/Awmir)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- **Email**: [alendolen80@gmail.com](mailto:alendolen80@gmail.com)  
 
 ---
 
