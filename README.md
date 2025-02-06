@@ -14,6 +14,7 @@ I'm currently focused on learning front-end development with a strong foundation
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge)
 
 ---
 
