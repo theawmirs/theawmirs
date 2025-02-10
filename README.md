@@ -16,6 +16,7 @@ I'm currently focused on learning front-end development with a strong foundation
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand&logoColor=white&style=for-the-badge)
 
 
 ---
