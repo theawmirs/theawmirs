@@ -19,8 +19,8 @@ I'm currently focused on learning front-end development with a strong foundation
 ---
 
 ### 🚀 My Journey:  
-- 🌱 I’m currently learning React.js.  
-- 🎯 Future goals: Master React, Tailwind CSS, and TypeScript.  
+- 🌱 I’m currently learning Next.js.  
+- 🎯 Future goals: Master React, Tailwind CSS, TypeScript and Next.js.  
 - 💡 Passionate about crafting beautiful and user-friendly web experiences.  
 
 ---
