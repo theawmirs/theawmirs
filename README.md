@@ -1,35 +1,51 @@
-# Hi there 👋  
-### I'm Awmir (Amirhossein Kazemi) - Aspiring Front-End Developer  
-I'm currently focused on learning front-end development with a strong foundation in HTML, CSS, and JavaScript. My goal is to become a proficient developer who brings ideas to life through code.
+# 🚀 Awmir (Amirhossein Kazemi)  
+
+**Aspiring Front-End Developer | Passionate About Building Modern Web Experiences**  
 
 ---
 
-### 🌟 Technologies I'm Using:  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+## 👋 About Me  
+Hey there! I'm **Awmir**, a front-end developer in the making. I'm currently diving deep into **Next.js** and refining my skills in **React, Tailwind CSS, and TypeScript** to create fast, scalable, and beautiful web applications. My journey started with HTML, CSS, and JavaScript, and I'm constantly learning and experimenting with new technologies.  
 
-
+🎯 **Goal:** Become a highly skilled front-end developer capable of bringing innovative ideas to life.  
+🔥 **Interest:** Creating modern, responsive, and user-friendly web applications.  
 
 ---
 
-### 🚀 My Journey:  
-- 🌱 I’m currently learning Next.js.  
-- 🎯 Future goals: Master React, Tailwind CSS, TypeScript and Next.js.  
-- 💡 Passionate about crafting beautiful and user-friendly web experiences.  
+## 🛠️ Tech Stack  
+### 🌐 Front-End  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)  
+
+### 🛠️ Tools & Other Skills  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)  
 
 ---
 
-### 📫 How to reach me:  
-- **GitHub**: [github.com/theawmirs](https://github.com/theawmirs)  
-- **Email**: [alendolen80@gmail.com](mailto:alendolen80@gmail.com)  
+## 🚀 Learning Journey  
+📌 **Currently Learning:**  
+- **Next.js** to build server-side rendered and static web applications.  
+- **Advanced React & TailwindCSS** for modern UI development.  
+- **TypeScript** for better scalability and maintainability.  
+
+📌 **Future Goals:**  
+- Deepen my understanding of **performance optimization** in web applications.  
+- Explore **backend development** to become a full-stack developer.  
 
 ---
 
-### ✨ Fun Fact:  
-I recently developed a passion for programming and am eager to turn my coding dreams into reality.  
+## 📫 Connect With Me  
+📌 **GitHub:** [github.com/theawmirs](https://github.com/theawmirs)  
+📌 **Email:** [alendolen80@gmail.com](mailto:alendolen80@gmail.com)  
+
+---
+
+
+Thanks for stopping by! Let's build something amazing together. 🚀
