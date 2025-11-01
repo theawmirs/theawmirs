@@ -6,10 +6,10 @@
 
 ## 👋 About Me
 
-I'm **Awmir**, a front-end developer focused on creating **modern, responsive, and user-centric web applications** with **Next.js** and **React**.  
-I’m passionate about writing clean, maintainable code and implementing efficient architectures that balance aesthetics and performance.
+I'm **Awmir**, a front-end developer focused on creating **modern, performant, and user-centric web applications** using **Next.js** and **React**.  
+I write clean, maintainable code and aim to deliver seamless user experiences with attention to both **design precision** and **technical efficiency**.
 
-I enjoy translating complex ideas into elegant digital experiences — from interactive dashboards to real-time map applications.
+My main focus is on **Next.js ecosystem**, component-based UI development, and building scalable applications with well-structured architecture.
 
 ---
 
@@ -17,23 +17,25 @@ I enjoy translating complex ideas into elegant digital experiences — from inte
 
 ### 🌐 Front-End
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?logo=redux&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Shadcn](https://img.shields.io/badge/Shadcn-000000?logo=shadcnui&logoColor=white&style=for-the-badge)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?logo=redux&logoColor=white&style=for-the-badge)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white&style=for-the-badge)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?logo=mapbox&logoColor=white&style=for-the-badge)
-
-### 🗄️ Backend & Database
-
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-1C1C1C?logo=drizzle&logoColor=white&style=for-the-badge)
+![Drizzle](https://img.shields.io/badge/Drizzle-1C1C1C?logo=drizzle&logoColor=white&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 
-### ⚙️ Tools & Workflow
+### 🛠️ Tools & Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
